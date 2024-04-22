@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 <a name="readme-top"></a>
 
 # Anime Vault - Your favorite anime, all in one place.
 
 ![Anime Vault - Your favorite anime, all in one place.](/.github/images/img_main.png "Anime Vault - Your favorite anime, all in one place.")
+=======
+# ANIME_VAULT- Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+
+>>>>>>> d3fb67770ef438a6a384ecba08d2dab875a77537
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
 [![GitHub license](https://flat.badgen.net/github/license/sanidhyy/anime-vault?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/anime-vault/blob/main/LICENSE "GitHub license")
@@ -22,18 +27,22 @@
 
 </summary>
 
-- [Folder Structure](#bangbang-folder-structure)
-- [Getting Started](#toolbox-getting-started)
-- [Screenshots](#camera-screenshots)
-- [Tech Stack](#gear-tech-stack)
-- [Stats](#wrench-stats)
-- [Contribute](#raised_hands-contribute)
-- [Acknowledgements](#gem-acknowledgements)
-- [Buy Me a Coffee](#coffee-buy-me-a-coffee)
-- [Follow Me](#rocket-follow-me)
-- [Give A Star](#star-give-a-star)
-- [Star History](#star2-star-history)
-- [Give A Star](#star-give-a-star)
+- [Anime Vault - Your favorite anime, all in one place.](#anime-vault---your-favorite-anime-all-in-one-place)
+- [](#)
+- [ANIME\_VAULT- Modern Next 14 Server Side App with Server Actions, Infinite Scroll \& Framer Motion Animations](#anime_vault--modern-next-14-server-side-app-with-server-actions-infinite-scroll--framer-motion-animations)
+- [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+  - [:bangbang: Folder Structure](#bangbang-folder-structure)
+  - [:toolbox: Getting Started](#toolbox-getting-started)
+    - [:books: Additional Resources](#books-additional-resources)
+  - [:camera: Screenshots:](#camera-screenshots)
+  - [:gear: Tech Stack](#gear-tech-stack)
+  - [:wrench: Stats](#wrench-stats)
+  - [:raised\_hands: Contribute](#raised_hands-contribute)
+  - [:gem: Acknowledgements](#gem-acknowledgements)
+  - [:coffee: Buy Me a Coffee](#coffee-buy-me-a-coffee)
+  - [:rocket: Follow Me](#rocket-follow-me)
+  - [:star: Give A Star](#star-give-a-star)
+  - [:star2: Star History](#star2-star-history)
 
 </details>
 
