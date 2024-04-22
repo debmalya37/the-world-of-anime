@@ -3,6 +3,7 @@ import Image from "next/image";
 function LoadMore() {
   return (
     <>
+    
       <section className="flex justify-center items-center w-full">
         <div>
           <Image
