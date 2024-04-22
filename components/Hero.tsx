@@ -21,6 +21,7 @@ function Hero() {
           Explore The <span className="red-gradient">Diverse Realms</span> of
           Anime Magic
         </h1>
+      <span>by debmalya sen</span>
       </div>
       {/* Right section containing an anime image */}
       <div className="lg:flex-1 relative w-full h-[50vh] justify-center">
